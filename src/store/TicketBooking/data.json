@@ -1,0 +1,393 @@
+{
+  "maxSeat": 15,
+  "currency": "₹",
+  "categories": [
+    {
+      "name": "CLUB",
+      "price": 236,
+      "rows": [
+        {
+          "index": 0,
+          "name": "A",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": true, "available": false },
+            { "index": 1, "seatNo": 2, "visible": true, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": false },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": false },
+            { "index": 5, "seatNo": 6, "visible": true, "available": false },
+            { "index": 6, "seatNo": 7, "visible": true, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 1,
+          "name": "B",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": false },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": false },
+            { "index": 5, "seatNo": 6, "visible": true, "available": false },
+            { "index": 6, "seatNo": 7, "visible": true, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EXECUTIVE",
+      "price": 195,
+      "rows": [
+        {
+          "index": 0,
+          "name": "C",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": false, "available": false },
+            { "index": 3, "seatNo": 4, "visible": false, "available": false },
+            { "index": 4, "seatNo": 5, "visible": false, "available": false },
+            { "index": 5, "seatNo": 6, "visible": false, "available": false },
+            { "index": 6, "seatNo": 7, "visible": false, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 1,
+          "name": "D",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": false, "available": false },
+            { "index": 3, "seatNo": 4, "visible": false, "available": false },
+            { "index": 4, "seatNo": 5, "visible": false, "available": false },
+            { "index": 5, "seatNo": 6, "visible": false, "available": false },
+            { "index": 6, "seatNo": 7, "visible": false, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 2,
+          "name": "E",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": false, "available": false },
+            { "index": 3, "seatNo": 4, "visible": false, "available": false },
+            { "index": 4, "seatNo": 5, "visible": false, "available": false },
+            { "index": 5, "seatNo": 6, "visible": false, "available": false },
+            { "index": 6, "seatNo": 7, "visible": false, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 3,
+          "name": "F",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": false, "available": false },
+            { "index": 3, "seatNo": 4, "visible": false, "available": false },
+            { "index": 4, "seatNo": 5, "visible": false, "available": false },
+            { "index": 5, "seatNo": 6, "visible": false, "available": false },
+            { "index": 6, "seatNo": 7, "visible": false, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 4,
+          "name": "G",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": false },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": false },
+            { "index": 5, "seatNo": 6, "visible": true, "available": false },
+            { "index": 6, "seatNo": 7, "visible": true, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 5,
+          "name": "H",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": true },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": false },
+            { "index": 5, "seatNo": 6, "visible": true, "available": false },
+            { "index": 6, "seatNo": 7, "visible": true, "available": false },
+            { "index": 7, "seatNo": 8, "visible": true, "available": false },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 11,
+              "seatNo": 12,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 12,
+              "seatNo": 13,
+              "visible": true,
+              "available": false
+            },
+            {
+              "index": 13,
+              "seatNo": 14,
+              "visible": true,
+              "available": false
+            },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 6,
+          "name": "I",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": false },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": false },
+            { "index": 5, "seatNo": 6, "visible": true, "available": false },
+            { "index": 6, "seatNo": 7, "visible": true, "available": true },
+            { "index": 7, "seatNo": 8, "visible": true, "available": true },
+            { "index": 8, "seatNo": 9, "visible": true, "available": false },
+            { "index": 9, "seatNo": 10, "visible": true, "available": false },
+            {
+              "index": 10,
+              "seatNo": 11,
+              "visible": true,
+              "available": false
+            },
+            { "index": 11, "seatNo": 12, "visible": true, "available": true },
+            { "index": 12, "seatNo": 13, "visible": true, "available": true },
+            { "index": 13, "seatNo": 14, "visible": true, "available": true },
+            { "index": 14, "seatNo": 15, "visible": true, "available": false }
+          ]
+        },
+        {
+          "index": 7,
+          "name": "J",
+          "seats": [
+            { "index": 0, "seatNo": 1, "visible": false, "available": false },
+            { "index": 1, "seatNo": 2, "visible": false, "available": false },
+            { "index": 2, "seatNo": 3, "visible": true, "available": false },
+            { "index": 3, "seatNo": 4, "visible": true, "available": false },
+            { "index": 4, "seatNo": 5, "visible": true, "available": true },
+            { "index": 5, "seatNo": 6, "visible": true, "available": true },
+            { "index": 6, "seatNo": 7, "visible": true, "available": true },
+            { "index": 7, "seatNo": 8, "visible": true, "available": true },
+            { "index": 8, "seatNo": 9, "visible": true, "available": true },
+            { "index": 9, "seatNo": 10, "visible": true, "available": true },
+            { "index": 10, "seatNo": 11, "visible": true, "available": true },
+            { "index": 11, "seatNo": 12, "visible": true, "available": true },
+            { "index": 12, "seatNo": 13, "visible": true, "available": true },
+            { "index": 13, "seatNo": 14, "visible": true, "available": true },
+            { "index": 14, "seatNo": 15, "visible": true, "available": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
